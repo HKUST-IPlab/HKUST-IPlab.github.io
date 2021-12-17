@@ -11,7 +11,7 @@ a.fill-div {
 .title, .subtitle{
     font-family: 'Oxygen', sans-serif;
 }
-footer {
+.footer {
     position: fixed;
     bottom: 0px;
     width: 100%;
